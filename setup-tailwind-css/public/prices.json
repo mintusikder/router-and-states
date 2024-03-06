@@ -1,0 +1,40 @@
+{
+    "gymMembershipOptions": [
+      {
+        "id": 1,
+        "name": "Starter Pack",
+        "price": 19.99,
+        "features": ["Access to gym facilities"],
+        "duration": "1 month"
+      },
+      {
+        "id": 2,
+        "name": "Fitness Enthusiast",
+        "price": 39.99,
+        "features": ["Full access to gym facilities", "Group fitness classes"],
+        "duration": "3 months"
+      },
+      {
+        "id": 3,
+        "name": "Performance Plus",
+        "price": 59.99,
+        "features": ["All-inclusive access", "Personal trainer sessions", "Nutritional guidance"],
+        "duration": "6 months"
+      },
+      {
+        "id": 4,
+        "name": "Family Membership",
+        "price": 79.99,
+        "features": ["Access for the entire family", "Unlimited classes"],
+        "duration": "1 year"
+      },
+      {
+        "id": 5,
+        "name": "Elite Athlete",
+        "price": 99.99,
+        "features": ["Exclusive gym access", "Personalized training program", "24/7 access"],
+        "duration": "1 year"
+      }
+    ]
+  }
+  
