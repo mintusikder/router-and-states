@@ -9,8 +9,8 @@ function App() {
 
   return (
     <>
-      <h1 className="text-xl font-bold underline bg-red-500">Hello world!</h1>
       <NavBar></NavBar>
+      <h1 className="text-xl font-bold underline bg-red-500">Hello world!</h1>
     </>
   );
 }
