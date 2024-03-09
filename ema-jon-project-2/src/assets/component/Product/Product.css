@@ -1,0 +1,36 @@
+.product img {
+  height: 286px;
+  width: 286px;
+  border-radius: 8px;
+}
+.product {
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 8px;
+  position: relative;
+}
+.btn{
+    background-color: bisque;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-left: -20px;
+}
+.btn:hover{
+    background-color: orange;
+    transition: 1s;
+  
+}
+.name{
+    margin-bottom: 0;
+}
+.price{
+    margin-top: 0;
+}
+.seller{
+    margin-bottom: 0;
+}
+.rating{
+    margin-top: 0;
+    margin-bottom: 50px;
+}
